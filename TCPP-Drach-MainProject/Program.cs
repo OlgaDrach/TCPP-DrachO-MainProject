@@ -7,6 +7,7 @@ namespace TCPP_Drach_MainProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
